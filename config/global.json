@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "Wood",
+      "unit_price": 150,
+      "quantity": 0.27
+    },
+    {
+      "name": "Cable",
+      "unit_price": 150,
+      "quantity": 0.27
+    },
+    {
+      "name": "Socket",
+      "unit_price": 10,
+      "quantity": 1
+    },
+    {
+      "name": "Plug",
+      "unit_price": 25,
+      "quantity": 1
+    }
+  ],
+  "tooling": [
+    {
+      "name": "Circular Saw",
+      "base_price": 5
+    },
+    {
+      "name": "Table Saw",
+      "base_price": 5
+    },
+    {
+      "name": "1/4 Sander",
+      "base_price": 5
+    },
+    {
+      "name": "Orbital Sander",
+      "base_price": 5
+    }
+  ]
+}
