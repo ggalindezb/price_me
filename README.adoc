@@ -1,0 +1,23 @@
+# Readme
+
+- Add a proper readme
+
+## Categories
+
+Write about how to handle categories
+
+Base price calculation:
+
+- Raw Materials
+- Components
+- Work
+- Fixed costs
+- Design
+- Packaging
+- Shipping
+
+Up to here, this are simple map/reductions over a collection of variables. A
+more complex rule workflow can be derived from here. It should be done using
+simple configuration, probably through a formula of sorts.
+
+The gem should be able to handle the whole process using only the input.
