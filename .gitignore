@@ -1,1 +1,3 @@
+# Ignore test generated files
 .rspec
+spec/examples.txt
